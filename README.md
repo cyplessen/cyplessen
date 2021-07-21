@@ -5,7 +5,7 @@
 ## Work
 
 - 🔭 I’m currently doing my PhD on *Meta research and research synthesis on digital health interventions* at VU Amsterdam. I use and extend the method of **multiverse meta-analyses** to investigate the efficacy of digital health interventions.
-- 🖥 I work at the **Psychometrics and Health Outcomes Lab** at Charité Berlin researching physical functioning and digital sovereignty in patients.
+- 🖥 I work as a researcher at the [**Psychometrics and Health Outcomes Lab**](http://patient-centered-outcomes-research.org/) at Charité Berlin researching physical functioning and digital sovereignty in patients.
 
 <br>
 
@@ -15,7 +15,7 @@
 - Multiverse meta-analysis by extentding them to different effect sizes and 3-level structures.
 - A shiny app for displaying reference data. 
 - Multigroup differential item functioning.
-- Data management of databases containing information on RCTs for depression and anxiety.
+- Data management of databases containing information on RCTs of psychological treatments for depression and anxiety.
 
 Unfortuntately, most of my ongoing projects are under construction, so I am not yet able to share most repositories.
 
