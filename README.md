@@ -12,7 +12,7 @@
 ## Projects
 
 👨‍💻 I’m currently working on:
-- Multiverse meta-analysis by extentding them to different effect sizes and 3-level structures.
+- Multiverse meta-analysis by extending them to different effect sizes and 3-level structures.
 - A shiny app for displaying reference data. 
 - Multigroup differential item functioning.
 - Data management of databases containing information on RCTs of psychological treatments for depression and anxiety.
