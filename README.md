@@ -4,18 +4,18 @@
 
 ## Work
 
-- 🔭 I’m currently doing my PhD on *Meta research and research synthesis on digital health interventions* at VU Amsterdam. I use and extend the method of **multiverse meta-analyses** to investigate the efficacy of digital health interventions.
-- 🖥 I work as a researcher at the [**Psychometrics and Health Outcomes Lab**](http://patient-centered-outcomes-research.org/) at Charité Berlin researching physical functioning and digital sovereignty in patients.
+- 🔭 I’m currently doing my PhD on *Meta research and research synthesis on digital health interventions* at VU Amsterdam. 
+- 🖥 I’m a researcher at the [**Psychometrics and Health Outcomes Lab**](http://patient-centered-outcomes-research.org/) at Charité Berlin focussing on item response theory based patient reported outcomes measures for physical functioning and pain.
 
 <br>
 
 ## Projects
 
 👨‍💻 I’m currently working on:
-- Multiverse meta-analysis by extending them to different effect sizes and 3-level structures.
-- A shiny app for displaying reference data. 
-- Multigroup differential item functioning.
-- Data management of databases containing information on RCTs of psychological treatments for depression and anxiety.
+- Investigating the robustness of the evidence for digital mental health interventions for common mental health disorders using a multiverse meta-analysis approach.
+- I develop a shiny app for displaying reference data based on quantile regression and plausible value imputation. 
+- Multiverse differential item functioning analyses.
+- Meta-Analytic Research Domain (MARD) management for RCTs on depression, anxiety, and PTSD.
 
 Unfortuntately, most of my ongoing projects are under construction, so I am not yet able to share most repositories.
 
@@ -23,7 +23,7 @@ Unfortuntately, most of my ongoing projects are under construction, so I am not 
 
 ## Contact
 
-💬 If you want to talk about multiverse meta-analyses, differential item functioning, the tidyverse, you can get in touch:
+💬 You can get in touch with me:
 
 - Twitter: https://twitter.com/CYPlessen
 - Homepage: https://constantinyvesplessen.com/
